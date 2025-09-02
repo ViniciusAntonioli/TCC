@@ -56,3 +56,8 @@ Durante a sua construção, optei por uma abordagem mais direita focando na func
 de frameworks como Laravel. 
 
 Manter este repositório é uma forma de documentar minha evolução e de demonstrar minha capacidade de construir soluções completas, além de reconhecer a importância da melhoria contínua no desenvolvimento de software.
+
+<img width="1908" height="938" alt="image" src="https://github.com/user-attachments/assets/9c136c80-13ae-468d-b1f6-a0b752aed573" />
+
+<img width="1912" height="944" alt="image" src="https://github.com/user-attachments/assets/78c94aa9-4e60-4404-ad48-e6da2f0549b4" />
+
