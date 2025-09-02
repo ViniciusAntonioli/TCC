@@ -1,0 +1,353 @@
+﻿* {
+  z-index: 0;
+}
+
+/* Fonte personalizada */
+@font-face {
+  font-family: 'MPLUSRounded1c-Regularr';
+  src: url('MPLUSRounded1c-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+/*PÁGINA DO PRODUTO DETALHADO*//*JULIO*/
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+}
+.produto_detalhado {
+  display: flex;
+  background: #fff;
+  padding: 40px;
+  margin-top: 190px;
+  margin-bottom: 50px;
+  gap: 50px;
+  max-width: 100%; /* Garante que a div não exceda a largura da tela */
+}
+.container_prod_detalhado {
+  display: flex;
+  flex-direction: column; /* Garante que os elementos fiquem empilhados verticalmente */
+  gap: 20px; /* Espaçamento entre os elementos */
+  width: 100%;
+  margin: 0 auto 40px auto;
+}
+
+.galeria_fotos {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 35%; /* Ajusta a largura para 100% */
+  margin-bottom: 20px; /* Adiciona um pouco de espaço abaixo da galeria */
+}
+
+
+.main-image {
+  width: 96%; /* Faz a imagem ocupar todo o espaço do container */
+  height: auto;
+  border: 3px solid #ddd;
+  margin-bottom: 10px;
+}
+.thumbnail-container {
+  display: flex;
+  justify-content: center; /* Centraliza as miniaturas */
+  gap: 20px; /* Ajusta o espaçamento entre miniaturas */
+  flex-wrap: wrap; /* Permite que as miniaturas se ajustem em várias linhas */
+}
+.thumbnail {
+  width: 75px;
+  height: auto;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: 0.3s;
+}
+.thumbnail:hover {
+  border-color: rgb(255, 104, 17);
+}
+.informacao_produto {
+  flex: 1.75; /* Ajusta a informação para ocupar mais espaço */
+}
+.informacao_produto h1 {
+  font-size: 1.2em;
+  margin: 0 0 10px;
+}
+.descricao_produto h2 {
+  font-size: 1em;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  color: #333;
+}
+.descricao_produto p,.descricao_produto ul {
+  font-size: 0.9em;
+  line-height: 1.5;
+    text-align: justify;
+}
+.descricao_produto ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+.nav-button {
+  position: absolute;
+  top: 50%; /* Posiciona verticalmente no meio */
+  transform: translateY(-100%); /* Ajusta para centralizar */
+  font-size: 1.5em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #333;
+  transition: color 0.5s;
+}
+.nav-button:hover {
+  color: rgb(255, 104, 17);
+}
+.prev {
+  left: 5px; /* Posição da seta para ir para imagem anterior */
+}
+.next {
+  right: 20px; /* Posição da seta para próxima imagem */
+}
+/* Container da imagem com efeito de zoom */
+.zoom-container {
+  position: relative;
+  overflow: hidden; /* Impede que a imagem extrapole o container */
+}
+.main-image {
+  transition: transform 0.3s ease; /* Transição suave no efeito */
+  cursor: zoom-in; /* Cursor padrão para zoom-in */
+}
+.main-image.zoomed {
+  transform-origin: center; /* Centraliza o zoom inicialmente */
+  transform: scale(2); /* Aumenta a escala para 2x */
+  cursor: zoom-out;
+}
+/* CSS das imagens dos produtos do bloco "você vai se interessar" */
+.sugestoes {
+  margin-top: 20px; /* Espaçamento acima da seção de sugestões */
+  text-align: center;
+  width: 100%; /* garante que ocupe toda a largura */
+}
+.sugestoes h2 {
+  font-size: 1.80em;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.carrossel {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%; /* Ocupa toda a largura da tela */
+  overflow: hidden; /* Impede que o conteúdo extravase */
+}
+.itens-carrossel {
+  display: flex; /* Flex para alinhar os itens em linha */
+  transition: transform 0.8s ease; /* Transição suave para o efeito de slide */
+}
+.item-carrossel {
+  flex: 0 0 20%; /* Cada item ocupa 20% da largura do carrossel */
+  max-width: 20%; /* Garante que cada item não ultrapasse 20% */
+  margin: 0 5px; /* Espaçamento horizontal entre os itens */
+  text-align: center;
+  position: relative;
+  padding: 10px;
+  flex-shrink: 0; /* Impede que os itens encolham */
+}
+.item-carrossel img {
+  border-radius: 10px;
+  max-width: 100%; /* Mantém a imagem responsiva */
+  height: auto; /* Ajusta a altura automaticamente */
+  cursor: pointer;
+  border: 2px solid transparent;
+  object-fit: cover; /* Garante que a imagem se ajuste ao contêiner */
+  transition: border 0.3s ease, transform 0.3s ease; /* Transição suave para o contorno e a escala */
+}
+.item-carrossel:hover {
+  border: 2px solid rgb(255, 104, 17); /* Cor do contorno ao passar o mouse */
+  transform: scale(1.05); /* Aumenta um pouco o tamanho ao passar o mouse */
+}
+.itens-carrossel {
+  display: flex;
+  overflow: hidden;
+  width: 80%;
+  transition: transform 0.5s ease-in-out;
+  scroll-behavior: smooth;
+}
+.botao-carrossel {
+  font-size: 3em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: transparent; /* Cor padrão */
+  color: #333; /* Cor para destacar as setas */
+  transition: background-color 0.5s; /* Efeito suave na mudança de cor */
+}
+.botao-carrossel:hover {
+  color: rgb(255, 104, 17) /* Cor ao passar o mouse*/
+}
+.anterior {
+  left: 10px; /* Posiciona a seta para ir para a imagem anterior 10px à esquerda */
+}
+
+.proximo {
+  right: 10px; /* Posiciona a seta para ir para a próxima imagem 10px à direita */
+}
+
+.produto-detalhado {
+  display: flex; /* Define que os elementos internos serão flexíveis */
+  flex-direction: column; /* Alinha os elementos internamente em uma coluna */
+  align-items: center; /* Centraliza os elementos internamente */
+}
+
+.info-detalhes-primeiro{
+  margin-top: 2px;
+}
+
+.produto-nome {
+  margin: 0 0 20px 0;
+}
+
+.produto-preco {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 20px 0 20px 0;
+}
+
+.btn-adicionar {
+    max-width: 200px;
+    width: 48%;
+    text-align: center;
+    background: none;
+    color: #01334d;
+    padding: 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: background 0.3s;
+    border-color: #01334d;
+    border-width: 5px;
+    box-shadow: none;
+}
+
+.btn-adicionar :hover {
+  background: #01334d;
+}
+
+.btn-comprar {
+    max-width: 200px;
+    width: 50%;
+    text-align: center;
+    background: #014060;
+    color: #fff;
+    padding: 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: background 0.3s;
+}
+
+.btn-comprar :hover {
+  background: #01334d;
+}
+
+.desc {
+  font-size: small;
+}
+
+/* Ajustes para telas menores que 1024px (tablets e dispositivos menores) */
+@media (max-width: 1024px) {
+  .banner-boletim-item {
+    flex: 1 0 25%;
+    height: 240px;
+  }
+}
+
+/* Ajustes para telas menores que 768px (telas medianas, tablets) */
+@media (max-width: 768px) {
+  .banner-corpo-home {
+    grid-template-columns: 1fr; /* Muda para 1 coluna em telas menores */
+    grid-template-rows: repeat(3, 150px); /* Ajusta a altura para telas menores */
+    width: 90%; /* Ajusta a largura para ocupar 90% da tela */
+  }
+  .banner-boletim-item {
+    flex: 1 0 50%; /* Cada item ocupa 50% da largura do container */
+    height: 180px;
+  }
+  .carrossel .item-carrossel {
+    flex: 0 0 30%; /* Cada item ocupa 30% da largura do container */
+    max-width: 30%;
+  }
+}
+
+/* Ajustes para dispositivos como Galaxy S23 e iPhone 12 */
+@media (max-width: 600px) {
+  .banner-boletim-item {
+    flex: 1 0 30%; /* Cada item ocupa 30% da largura do container */
+    height: 120px; /* Altura ajustada para telas menores */
+    margin: 10px;
+  }
+  .produto_detalhado {
+    flex-direction: column; /* Coloca os elementos em coluna */
+    padding: 20px;
+    margin-top: 20px; /* Reduz a margem superior em telas menores */
+    
+  }
+  .galeria_fotos {
+    width: 100%; /* Ajusta a largura para 100% */
+    margin-bottom: 20px; /* Adiciona margem inferior para espaçamento */
+  }
+  .informacao_produto h1 {
+    font-size: 1.2em; /* Ajusta o tamanho da fonte */
+  }
+  .descricao_produto h2 {
+    font-size: 1em; /* Ajusta o tamanho da fonte */
+  }
+  .main-image {
+    width: 100%; /* Garante que a imagem ocupe 100% da largura disponível */
+  }
+  .thumbnail {
+    width: 20%; /* Ajusta a largura das miniaturas */
+    height: auto;
+  }
+}
+
+/* Ajustes para dispositivos ainda menores */
+@media (max-width: 400px) {
+  .banner-boletim-item {
+    flex: 1 0 45%; /* Cada item ocupa 45% da largura do container */
+    height: 100px;
+    margin: 8px;
+  }
+  .banner-principal button {
+    padding: 5px; /* Ajusta o padding dos botões */
+    font-size: 1em; /* Ajusta o tamanho da fonte */
+  }
+  .slide {
+    height: 100px; /* Ajusta a altura para telas menores */
+    font-size: 1em;
+  }
+  .main-image {
+    width: 90%; /* Ajusta a largura da imagem principal */
+  }
+  .thumbnail-container {
+    flex-wrap: wrap; /* Permite que as miniaturas se ajustem em várias linhas */
+    justify-content: center; /* Centraliza as miniaturas */
+  }
+  .thumbnail {
+    width: 50px; /* Ajusta a largura das miniaturas */
+  }
+  .informacao_produto h1 {
+    font-size: 1em; /* Ajusta o tamanho da fonte */
+  }
+  .descricao_produto p,
+  .descricao_produto ul {
+    font-size: 0.8em; /* Ajusta o tamanho da fonte */
+  }
+}
+

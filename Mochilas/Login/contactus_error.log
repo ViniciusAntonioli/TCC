@@ -1,0 +1,248 @@
+[10-Jun-2025 13:56:05 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 13:56:05
+[10-Jun-2025 13:56:05 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 13:56:06 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 13:56:10 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 13:56:10
+[10-Jun-2025 13:56:10 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 13:56:10 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 13:56:18 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 13:56:18
+[10-Jun-2025 13:56:18 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 13:56:18 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 13:56:21 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 13:56:21
+[10-Jun-2025 13:56:29 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 13:56:29
+[10-Jun-2025 13:56:29 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 13:56:29 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 13:57:32 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 13:57:32
+[10-Jun-2025 13:57:32 Europe/Berlin] Erro de Conexão SQL Server: SQLSTATE[IMSSP]: An invalid keyword 'CharacterSet' was specified in the DSN string.
+[10-Jun-2025 13:57:36 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 13:57:36
+[10-Jun-2025 13:57:36 Europe/Berlin] Erro de Conexão SQL Server: SQLSTATE[IMSSP]: An invalid keyword 'CharacterSet' was specified in the DSN string.
+[10-Jun-2025 13:57:37 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 13:57:37
+[10-Jun-2025 13:57:37 Europe/Berlin] Erro de Conexão SQL Server: SQLSTATE[IMSSP]: An invalid keyword 'CharacterSet' was specified in the DSN string.
+[10-Jun-2025 13:59:05 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 13:59:05
+[10-Jun-2025 14:00:07 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:00:07
+[10-Jun-2025 14:00:07 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:00:07 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 14:02:09 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:02:09
+[10-Jun-2025 14:02:09 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:02:09 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 14:05:20 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:05:20
+[10-Jun-2025 14:05:20 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:05:20 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 14:05:29 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:05:29
+[10-Jun-2025 14:05:29 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:05:29 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 14:05:58 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:05:58
+[10-Jun-2025 14:05:58 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:05:58 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 14:06:03 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:06:03
+[10-Jun-2025 14:06:03 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:06:03 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 14:06:27 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:06:27
+[10-Jun-2025 14:06:27 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:06:27 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 14:06:30 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:06:30
+[10-Jun-2025 14:06:32 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:06:32
+[10-Jun-2025 14:06:32 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:06:32 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+ | SQL: INSERT INTO temp_client
+                    (nome_empresa, razao_social, cnpj, contato, email, telefone, comprovante_pdf)
+                    VALUES
+                    (:nome_empresa, :razao_social, :cnpj, :responsavel, :email, :telefone, :arquivo)
+[10-Jun-2025 14:11:10 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:11:10
+[10-Jun-2025 14:11:10 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:11:10 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+
+[10-Jun-2025 14:11:16 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:11:16
+[10-Jun-2025 14:11:16 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:11:16 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+
+[10-Jun-2025 14:11:16 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:11:16
+[10-Jun-2025 14:11:58 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:11:58
+[10-Jun-2025 14:12:09 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:12:09
+[10-Jun-2025 14:12:21 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:12:21
+[10-Jun-2025 14:12:21 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:12:21 Europe/Berlin] ERRO PDO: SQLSTATE[IMSSP]: An error occurred translating string for input param 7 to UCS-2: N�o existe mapeamento para o caractere Unicode na p�gina de c�digos de m�ltiplos bytes de destino.
+
+[10-Jun-2025 14:16:43 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:16:43
+[10-Jun-2025 14:16:43 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:16:43 Europe/Berlin] ERRO PDO: SQLSTATE[42S22]: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]Nome de coluna 'caminho_pdf' inválido.
+[10-Jun-2025 14:17:40 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:17:40
+[10-Jun-2025 14:17:40 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:17:40 Europe/Berlin] ERRO PDO: SQLSTATE[42000]: [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]A conversão implícita do tipo de dados nvarchar em varbinary(max) não é permitida. Use a função CONVERT para executar essa consulta.
+[10-Jun-2025 14:19:25 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:19:25
+[10-Jun-2025 14:19:25 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:19:25 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749557965_38863ca3.pdf
+[10-Jun-2025 14:19:41 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:19:41
+[10-Jun-2025 14:19:41 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:19:41 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749557981_eb6623eb.pdf
+[10-Jun-2025 14:19:50 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:19:50
+[10-Jun-2025 14:19:50 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:19:50 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749557990_457f584a.pdf
+[10-Jun-2025 14:23:26 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:23:26
+[10-Jun-2025 14:23:26 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:23:26 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749558206_1968f8a4.pdf
+[10-Jun-2025 14:23:29 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:23:29
+[10-Jun-2025 14:23:41 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:23:41
+[10-Jun-2025 14:23:41 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:23:41 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749558221_c92b2a69.pdf
+[10-Jun-2025 14:24:56 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:24:56
+[10-Jun-2025 14:25:04 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-10 14:25:04
+[10-Jun-2025 14:25:04 Europe/Berlin] DEBUG: Requisição POST recebida.
+[10-Jun-2025 14:25:04 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749558304_116b0f9a.pdf
+[12-Jun-2025 10:28:43 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-12 10:28:43
+[13-Jun-2025 03:54:30 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 03:54:30
+[13-Jun-2025 03:54:55 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 03:54:55
+[13-Jun-2025 03:54:55 Europe/Berlin] DEBUG: Requisição POST recebida.
+[13-Jun-2025 03:54:55 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749779695_96139a40.pdf
+[13-Jun-2025 03:54:57 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 03:54:57
+[13-Jun-2025 04:58:14 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 04:58:14
+[13-Jun-2025 04:58:39 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 04:58:39
+[13-Jun-2025 04:58:39 Europe/Berlin] DEBUG: Requisição POST recebida.
+[13-Jun-2025 04:58:39 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749783519_5990d639.pdf
+[13-Jun-2025 04:59:27 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 04:59:27
+[13-Jun-2025 04:59:29 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 04:59:29
+[13-Jun-2025 04:59:29 Europe/Berlin] DEBUG: Requisição POST recebida.
+[13-Jun-2025 04:59:29 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749783569_b74c0c99.pdf
+[13-Jun-2025 04:59:30 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 04:59:30
+[13-Jun-2025 04:59:31 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 04:59:31
+[13-Jun-2025 04:59:40 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 04:59:40
+[13-Jun-2025 04:59:40 Europe/Berlin] DEBUG: Requisição POST recebida.
+[13-Jun-2025 04:59:40 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749783580_2a56c19a.pdf
+[13-Jun-2025 04:59:48 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 04:59:48
+[13-Jun-2025 04:59:48 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 04:59:48
+[13-Jun-2025 05:00:13 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 05:00:13
+[13-Jun-2025 05:00:23 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 05:00:23
+[13-Jun-2025 05:00:23 Europe/Berlin] DEBUG: Requisição POST recebida.
+[13-Jun-2025 05:00:23 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749783623_e60e5fdd.pdf
+[13-Jun-2025 20:43:01 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 20:43:01
+[13-Jun-2025 20:43:26 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 20:43:26
+[13-Jun-2025 20:43:26 Europe/Berlin] DEBUG: Requisição POST recebida.
+[13-Jun-2025 20:43:26 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749840206_e209040e.pdf
+[13-Jun-2025 22:18:34 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 22:18:34
+[13-Jun-2025 22:18:44 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-13 22:18:44
+[13-Jun-2025 22:18:44 Europe/Berlin] DEBUG: Requisição POST recebida.
+[13-Jun-2025 22:18:44 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749845924_4de0d3e8.pdf
+[14-Jun-2025 02:24:03 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 02:24:03
+[14-Jun-2025 10:35:56 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:35:56
+[14-Jun-2025 10:36:47 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:36:47
+[14-Jun-2025 10:37:41 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:37:41
+[14-Jun-2025 10:39:42 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:39:42
+[14-Jun-2025 10:43:19 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:43:19
+[14-Jun-2025 10:44:32 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:44:32
+[14-Jun-2025 10:44:52 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:44:52
+[14-Jun-2025 10:48:51 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:48:51
+[14-Jun-2025 10:50:35 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:50:35
+[14-Jun-2025 10:51:10 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:51:11
+[14-Jun-2025 10:52:06 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:52:06
+[14-Jun-2025 10:53:11 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:53:11
+[14-Jun-2025 10:55:17 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:55:17
+[14-Jun-2025 10:57:21 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:57:21
+[14-Jun-2025 10:58:56 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:58:56
+[14-Jun-2025 10:59:00 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:59:00
+[14-Jun-2025 10:59:09 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 10:59:09
+[14-Jun-2025 11:02:59 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:02:59
+[14-Jun-2025 11:03:06 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:03:06
+[14-Jun-2025 11:03:13 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:03:13
+[14-Jun-2025 11:06:28 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:06:28
+[14-Jun-2025 11:07:35 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:07:35
+[14-Jun-2025 11:09:03 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:09:03
+[14-Jun-2025 11:10:02 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:10:02
+[14-Jun-2025 11:10:32 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:10:32
+[14-Jun-2025 11:13:06 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:13:06
+[14-Jun-2025 11:14:30 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:14:30
+[14-Jun-2025 11:14:43 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:14:43
+[14-Jun-2025 11:15:29 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:15:29
+[14-Jun-2025 11:15:39 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:15:39
+[14-Jun-2025 11:20:03 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:20:03
+[14-Jun-2025 11:23:13 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:23:13
+[14-Jun-2025 11:23:30 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:23:30
+[14-Jun-2025 11:23:52 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:23:52
+[14-Jun-2025 11:26:13 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:26:13
+[14-Jun-2025 11:26:52 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:26:52
+[14-Jun-2025 11:27:25 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:27:25
+[14-Jun-2025 11:29:16 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:29:16
+[14-Jun-2025 11:29:27 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:29:27
+[14-Jun-2025 11:29:36 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:29:36
+[14-Jun-2025 11:29:44 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:29:44
+[14-Jun-2025 11:30:17 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:30:17
+[14-Jun-2025 11:31:02 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:31:02
+[14-Jun-2025 11:32:10 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 11:32:10
+[14-Jun-2025 11:32:10 Europe/Berlin] DEBUG: Requisição POST recebida.
+[14-Jun-2025 11:32:10 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749893530_8cfe6d89.pdf
+[14-Jun-2025 12:31:38 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-14 12:31:38
+[15-Jun-2025 06:53:56 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-15 06:53:56
+[15-Jun-2025 06:56:01 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-15 06:56:01
+[15-Jun-2025 06:56:01 Europe/Berlin] DEBUG: Requisição POST recebida.
+[15-Jun-2025 06:56:01 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1749963361_122a962c.pdf
+[16-Jun-2025 00:20:21 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:20:21
+[16-Jun-2025 00:22:37 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:22:37
+[16-Jun-2025 00:25:19 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:25:19
+[16-Jun-2025 00:26:08 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:26:08
+[16-Jun-2025 00:26:08 Europe/Berlin] DEBUG: Requisição POST recebida.
+[16-Jun-2025 00:26:08 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1750026368_ce2f549a.pdf
+[16-Jun-2025 00:26:24 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:26:24
+[16-Jun-2025 00:27:20 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:27:20
+[16-Jun-2025 00:31:24 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:31:24
+[16-Jun-2025 00:32:11 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:32:11
+[16-Jun-2025 00:32:11 Europe/Berlin] DEBUG: Requisição POST recebida.
+[16-Jun-2025 00:32:11 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1750026731_50559fb6.pdf
+[16-Jun-2025 00:34:30 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:34:30
+[16-Jun-2025 00:35:20 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:35:20
+[16-Jun-2025 00:35:20 Europe/Berlin] DEBUG: Requisição POST recebida.
+[16-Jun-2025 00:35:20 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1750026920_b4300bf0.pdf
+[16-Jun-2025 00:44:59 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:44:59
+[16-Jun-2025 00:45:40 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:45:40
+[16-Jun-2025 00:45:40 Europe/Berlin] DEBUG: Requisição POST recebida.
+[16-Jun-2025 00:45:40 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1750027540_59cc02f6.pdf
+[16-Jun-2025 00:46:21 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:46:21
+[16-Jun-2025 00:46:41 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:46:41
+[16-Jun-2025 00:47:22 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 00:47:22
+[16-Jun-2025 00:47:22 Europe/Berlin] DEBUG: Requisição POST recebida.
+[16-Jun-2025 00:47:22 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1750027642_2fae7c56.pdf
+[16-Jun-2025 17:09:21 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 17:09:21
+[16-Jun-2025 17:09:50 Europe/Berlin] DEBUG: Script contactus.php iniciado em 2025-06-16 17:09:50
+[16-Jun-2025 17:09:50 Europe/Berlin] DEBUG: Requisição POST recebida.
+[16-Jun-2025 17:09:50 Europe/Berlin] DEBUG: Inserção bem-sucedida, caminho_pdf = uploads/contactus_1750086590_fcea9048.pdf
